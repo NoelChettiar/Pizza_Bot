@@ -19,7 +19,6 @@ def welcome():
     print("*** I will be here to help you order your delicious Dream Pizza ***")
 
 
-
 def main():
     
     '''
@@ -30,4 +29,4 @@ def main():
     '''
     welcome()
 
-main()
+    main()
